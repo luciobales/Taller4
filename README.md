@@ -1,3 +1,4 @@
 # Taller4
 TrabajoFinal
-asasasa
+
+Aca vamos a ir escribiendo los pendientes y cosas de ese estilo
