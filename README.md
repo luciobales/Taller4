@@ -1,4 +1,3 @@
-# Taller4
-TrabajoFinal
+# RC
 
-Aca vamos a ir escribiendo los pendientes y cosas de ese estilo
+Aca vamos a poner el codigo funcional con versiones
