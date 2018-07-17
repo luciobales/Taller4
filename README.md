@@ -1,3 +1,3 @@
-# RC
+# FRONTEND
 
-Aca vamos a poner el codigo funcional con versiones
+Todo lo relacionado a Angular
