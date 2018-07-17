@@ -1,3 +1,3 @@
-# FRONTEND
+# BACKEND
 
-Todo lo relacionado a Angular
+Todo lo relacionado Spring, dependencias, etc
